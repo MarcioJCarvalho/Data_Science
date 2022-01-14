@@ -1,1 +1,2 @@
-#Data Science \nSistema de IA para análise de Vendas
+#Data Science 
+Sistema de IA para análise de Vendas
